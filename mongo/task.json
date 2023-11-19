@@ -1,0 +1,22 @@
+[{
+  "taskId": "1",
+  "title": "task1",
+  "category": "category1",
+  "description": "description1",
+  "images": [
+    "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+    "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+  ],
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "state": "open",
+  "wages": 10000,
+  "time": {
+    "start": "2018-01-01T00:00:00.000Z",
+    "end": "2018-01-01T00:00:00.000Z",
+    "duration": "1h30m"
+  },
+  "verify": true,
+}]

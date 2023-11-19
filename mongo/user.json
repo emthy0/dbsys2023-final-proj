@@ -1,0 +1,65 @@
+[
+  {
+    "uid": "1",
+    "info": {
+      "firstname": "John",
+      "lastname": "Doe",
+      "photoUrl": "https://www.w3schools.com/howto/img_avatar.png",
+      "gender": "Male",
+      "phoneNumber": "1234567890",
+      "citizenId": "1234567890123"
+    },
+    "payment": {
+      "bankName": "Kasikorn",
+      "bankAccountNumber": "1234567890"
+    },
+    "verified": true,
+    "customer": {
+      "ownTask": [
+        {
+          "taskId": "1",
+          "title": "task1",
+          "category": "category1",
+          "description": "description1",
+          "images": [
+            "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+            "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+          ],
+          "location": {
+            "latitude": 37.4219983,
+            "longitude": -122.084
+          },
+          "state": "available",
+          "wages": 10000.00,
+          "time": {
+            "start": "2018-01-01T00:00:00.000Z",
+            "end": "2018-01-01T00:00:00.000Z",
+            "duration": "1h30m"
+          },
+          "verified": true,
+          "worker": [
+            {
+              "state": "accepted",
+              "workerId": "1",
+              "review": "review1",
+              "rating": 3
+            }
+          ]
+        }
+      ]
+    },
+    "worker": {
+      "doneTask": [
+        {
+          
+          "taskId": "1", 
+          "review":"review1",
+          "rating": 4
+        }
+      ]
+    },
+    "admin": {
+      "loginKey": "1234567890"
+    }
+  }
+]

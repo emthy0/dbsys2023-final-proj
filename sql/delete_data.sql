@@ -1,0 +1,2 @@
+DELETE FROM MESSAGE
+WHERE "UID" = '5dca69ac-36de-4f30-bf02-aab606f48b12' AND "RecpID" = '5dca69ac-36de-4f30-bf02-aab606f48b0f' AND "Date" = '2023-12-13T10:00:00Z';
